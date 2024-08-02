@@ -1,4 +1,5 @@
-mongo
+portainer-ce
+#mongo
 #nacos/nacos-server:v2.4.0.1
 #mysql:5.7.25
 #支持私库
