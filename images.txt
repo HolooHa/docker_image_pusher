@@ -1,4 +1,5 @@
-hello-algo
+arm64v8/ubuntu:focal-20241011
+#hello-algo
 #portainer-ce
 #mongo
 #nacos/nacos-server:v2.4.0.1
